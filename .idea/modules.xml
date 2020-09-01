@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. Array/1. Array.iml" filepath="$PROJECT_DIR$/1. Array/1. Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Book/2. Book.iml" filepath="$PROJECT_DIR$/2. Book/2. Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Grass/3. Grass.iml" filepath="$PROJECT_DIR$/3. Grass/3. Grass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Square/4. Square.iml" filepath="$PROJECT_DIR$/4. Square/4. Square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. ProperCase/5. ProperCase.iml" filepath="$PROJECT_DIR$/5. ProperCase/5. ProperCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Gen opfrisk.iml" filepath="$PROJECT_DIR$/.idea/Gen opfrisk.iml" />
+    </modules>
+  </component>
+</project>
