@@ -8,7 +8,7 @@ public class Main {
             Ord på max.3 bogstaver skal skrives med småt.
         */
 
-        String s = "HEJ MED TEST";
+        String s = "HEJ med TEST";
 
         ProperCase(s);
 
