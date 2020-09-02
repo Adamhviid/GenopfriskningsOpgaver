@@ -8,7 +8,7 @@ public class Library {
 
         Book book = new Book(127317, "Cool book", 2020);
         Book book2 = new Book(127317, "Old book", 1969);
-        Book book3 = new Book(127317, "Weird book", 2012);
+        Book book3 = new Book(127317, "Sex book", 2012);
 
 
         Library.add(book);
@@ -19,7 +19,7 @@ public class Library {
 
     }
 
-    public static boolean CheckISBN ( ArrayList Library, Book book) {
+    public static boolean CheckISBN ( ArrayList Library, Book book ) {
 
         if ( Library.equals(book.getISBN()) ) {
             System.out.println("The book is already registered");

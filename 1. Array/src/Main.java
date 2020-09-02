@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         ArrayList<String> list = new ArrayList<String>();
+        list.add("hejtest");
         list.add("Test");
 
         String s = "Test";
@@ -18,8 +19,9 @@ public class Main {
     public static boolean doesArrayListContainString(ArrayList list, String s) {
 
         if (list.contains(s)) {
-            System.out.println("The String has been found");
+            System.out.println("'" + s + "' has been found");
             return true;
+
         } else {
             list.add(s);
             System.out.println("'" + s + "' has been added to the list.");
